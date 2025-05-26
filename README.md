@@ -1,4 +1,4 @@
-# TIPO-Agent: An T2I Agent system for conversational Image Generation
+# TIPO-Agent: T2I Agent system for conversational Image Generation
 ![1748283472781](image/README/1748283472781.png)
 
 ***WIP***
