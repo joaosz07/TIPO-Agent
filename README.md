@@ -2,6 +2,7 @@
 ![1748283472781](image/README/1748283472781.png)
 
 ***WIP***
+
 ***This is not AR/In-context MLLM img gen, it is LLM + T2I system for conversational image generation.***
 
 
